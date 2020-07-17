@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../favicon.ico">
+
+    <title>TV's Shopping</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <!-- Bootstrap theme -->
+    <link href="css/bootstrap-theme.min.css" rel="stylesheet">
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="theme.css" rel="stylesheet">
+
+    <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+    <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+	<meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+  </head>
+
+  <body>
+
+    <div class="container-fluid" role="main">
+
+      <!-- Main jumbotron for a primary marketing message or call to action -->
+      <div class="jumbotron" style="background-color:#F0FFFF">
+        
+		<center><h1>TeleVision Shop</h1></center>
+		   <h3><center><p>Just Within Minutes</p></center></h3>
+		    <hr class="botm-line">
+		<center><img src="screen.jpg" height="350" width="1000";<br></center>
+ 
+      </div>
+	  
+	  <div>
+	<p>
+	<h3>
+	Hello and welcome to TeleVision Shop site, the place to find the best TV's for every type vision and entertainment. We thoroughly check the quality of our goods, working only with reliable suppliers so that you only receive the best quality product.
+					<br><br>
+<b>Our vision:</b><br>
+To present innovative products at affordable price and quick delivery at your doorsteps upon the confirmation of the order by online or phone!
+We will fill the gap between the perception and realization within no time!
+<br><br>
+<b>Our mission:</b><br>
+Present largest and wide variety of products presentation of comfort-enhancing and time-saving products Effortless shopping with a wide range of payment options Exceptional customer support before, during and after the sales Elaborate explanation about products and their functionality of TV What you see is what you get! We present 100% transparent process in the presentation of products and pricing!
+<br>With a motivated team, we strive to be the creative minds that bring a smile to your face entertainment. That is why we were always looking for innovative new ways to get the best to you.
+
+
+<p></h3>
+	  </div>
+	   <hr class="botm-line">
