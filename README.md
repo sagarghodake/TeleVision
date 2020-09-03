@@ -72,11 +72,11 @@ Billing Address Page : In Billing address page here fill the billing and shippin
 
  Order Confirmed Page : In order confirmed page here displayed the ordered product with details.
  ---------------------------------------------------------------------------------------------------------------------------
-<center>![image](https://user-images.githubusercontent.com/60310009/92145990-a90bf800-ee36-11ea-891f-e591731c9188.png)</center>
+![image](https://user-images.githubusercontent.com/60310009/92145990-a90bf800-ee36-11ea-891f-e591731c9188.png)
 
  Track Order Page : In this page the user can track his product and can check the status of the product.
  ---------------------------------------------------------------------------------------------------------------------------
-<center>![image](https://user-images.githubusercontent.com/60310009/92146060-c50f9980-ee36-11ea-9edc-4ac705c2cc39.png)</center>
+![image](https://user-images.githubusercontent.com/60310009/92146060-c50f9980-ee36-11ea-9edc-4ac705c2cc39.png)
 
 ---------------------------------------------------------------------------------------------------------------------------
 <h1>Admin Panel</h1>
