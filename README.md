@@ -2,14 +2,15 @@
 TeleVision an Electronic Shop is E-Commerce based website. This is a web application that allows owner of TeleVision Shop to take his business online 24 hrs. Owner Module helps owner to manage Products (add, delete, edit) in his Shop. Use module will allow customer to interact with owner indirectly provides searching, adding product to cart, managing cart, placing order. This will help small shop owners to increase their profit.
 
 ---------------------------------------------------------------------------------------------------------------------------
-#TechnologyUsed:
+Technology_Used:
+---------------------------------------------------------------------------------------------------------------------------
 
 #Type: Dynamic Web Application
 
 #Front-End: HTML, CSS, JavaScript, PHP
 
 #Back-End: MySQL
----------------------------------------------------------------------------------------------------------------------------
+
 #Accomplishment:
 
  Implemented a system where vendor can manage product to showcase online using CRUD operations.
@@ -27,7 +28,8 @@ TeleVision an Electronic Shop is E-Commerce based website. This is a web applica
 
 Home Page :  In this page there are displayed the slider of the Television images of few categories and also some tabs like as My Account, Wishlist, My Cart,Checkout, Login, about us, Home, Catagories of our website. 
  ---------------------------------------------------------------------------------------------------------------------------
-![image](https://user-images.githubusercontent.com/60310009/92133241-c389a580-ee25-11ea-9af8-4013ae4ade47.png)  
+![Home1](https://user-images.githubusercontent.com/60310009/92134412-1d3e9f80-ee27-11ea-9053-0382ad436809.png)
+
 
 Home Page Footer :Here we displayed ours brands & give address & mail id for contact us
 ---------------------------------------------------------------------------------------------------------------------------
