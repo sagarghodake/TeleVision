@@ -27,7 +27,7 @@ TeleVision an Electronic Shop is E-Commerce based website. This is a web applica
 
 Home Page :  In this page there are displayed the slider of the Television images of few categories and also some tabs like as My Account, Wishlist, My Cart,Checkout, Login, about us, Home, Catagories of our website. 
  ---------------------------------------------------------------------------------------------------------------------------
-![ExamHubHome](https://user-images.githubusercontent.com/60310009/90327158-5c0ed180-dfae-11ea-9945-774a9427ca61.jpg)
+![image](https://user-images.githubusercontent.com/60310009/92133241-c389a580-ee25-11ea-9af8-4013ae4ade47.png)  
 
 Home Page Footer :Here we displayed ours brands & give address & mail id for contact us
 ---------------------------------------------------------------------------------------------------------------------------
