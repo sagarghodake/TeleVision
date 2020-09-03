@@ -29,6 +29,9 @@ Technology_Used:
 Home Page :  In this page there are displayed the slider of the Television images of few categories and also some tabs like as My Account, Wishlist, My Cart,Checkout, Login, about us, Home, Catagories of our website. 
  ---------------------------------------------------------------------------------------------------------------------------
 ![Home1](https://user-images.githubusercontent.com/60310009/92134412-1d3e9f80-ee27-11ea-9053-0382ad436809.png)
+![home](https://user-images.githubusercontent.com/60310009/92143669-377e7a80-ee33-11ea-863f-7f05c7887f29.png)
+![Screenshot (424)](https://user-images.githubusercontent.com/60310009/92143805-6694ec00-ee33-11ea-9f8f-ae34ed1733f8.png)
+
 
 
 Home Page Footer :Here we displayed ours brands & give address & mail id for contact us
