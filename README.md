@@ -1,5 +1,5 @@
 # TeleVision
-<b>TeleVision an Electronic Shop is E-Commerce based website. This is a web application that allows owner of TeleVision Shop to take his business online 24 hrs. Owner Module helps owner to manage Products (add, delete, edit) in his Shop. Use module will allow customer to interact with owner indirectly provides searching, adding product to cart, managing cart, placing order. This will help small shop owners to increase their profit.</b>
+<b>TeleVision an Electronic Shop is E-Commerce based website. This is a web application that allows owner of TeleVision Shop to take his business online 24 hrs. Owner Module helps owner to manage Products (add, delete, edit) in his Shop. User module will allow customer to interact with owner indirectly provides searching, adding product to cart, managing cart, placing order. This will help small shop owners to increase their profit.</b>
 
 ---------------------------------------------------------------------------------------------------------------------------
 Technology_Used:
