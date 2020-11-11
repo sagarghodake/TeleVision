@@ -68,7 +68,7 @@ When you shop at TeleVision Store, you not only get to choose from some great LE
                     </span>
                 </div>
                 <div class="media-body">
-                   <p>Registered Office:<br> 3rd Floor, Court House, Lokmanya Tilak Marg, Panvel, Mumbai-400002</p>
+                   <p>Registered Office:<br> Pune, Maharashtra, India</p>
                 </div>
             </li>
 
